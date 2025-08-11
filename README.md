@@ -47,22 +47,22 @@ Sales Analysis Project.xlsx
 - **Performance Metrics**: Sales Revenue, Customer Ratings
 - **Identifiers**: Unique Item and Outlet codes
 
-![Data Structure](screenshot-placeholder-2.png)
 
-## 📊 Dashboard Components
+##  Dashboard Components
 
-### 🎯 Key Performance Indicators (KPIs)
+###  Key Performance Indicators (KPIs)
 
 The dashboard presents four critical business metrics with automated calculations:
 
 | Metric | Value | Description |
 |--------|-------|-------------|
-| **Total Sales** | ₨1,201,681.49 | Cumulative revenue across all outlets |
-| **Average Sales** | ₨140.99 | Mean transaction value per item |
+| **Total Sales** | $1,201,681.49 | Cumulative revenue across all outlets |
+| **Average Sales** | $140.99 | Mean transaction value per item |
 | **Total Items Sold** | 8,523 | Complete inventory turnover |
 | **Average Rating** | 3.97/5 | Customer satisfaction index |
 
-![KPI Dashboard](screenshot-placeholder-3.png)
+<img width="544" height="231" alt="image" src="https://github.com/user-attachments/assets/f819c0a5-b823-4fcd-a6cc-5f4e4747cac7" />
+
 
 ### 📈 Dynamic Analysis Features
 
@@ -88,34 +88,7 @@ Advanced segmentation revealing customer preferences:
 - **Low Fat Products**: ₨776,319.69 (64.6% of total sales)
 - **Regular Products**: ₨425,361.80 (35.4% of total sales)
 
-![Category Analysis](screenshot-placeholder-4.png)
-
-## 🔧 Technical Implementation
-
-### Pivot Table Architecture
-
-The project leverages Excel's advanced pivot table functionality with multiple interconnected tables:
-
-#### **Primary Pivot Tables:**
-
-1. **Sales by Fat Content**
-   - Automatic grouping and summation
-   - Percentage contribution calculations
-   - Dynamic filtering capabilities
-
-2. **Outlet Performance Matrix**
-   - Multi-dimensional analysis (Size × Type × Location)
-   - Time-series performance tracking
-   - Comparative analysis across segments
-
-3. **Product Category Analytics**
-   - Revenue contribution by category
-   - Average rating by product type
-   - Inventory turnover analysis
-
-![Pivot Tables](screenshot-placeholder-5.png)
-
-### 🎛️ Interactive Slicer Implementation
+##  Dynamic Functionality Implementation
 
 **Three Dynamic Slicers** provide real-time data filtering:
 
@@ -133,37 +106,13 @@ The project leverages Excel's advanced pivot table functionality with multiple i
 - Store capacity-based segmentation
 - Scalability analysis across different store formats
 - Operational efficiency insights
+- 
+<img width="1398" height="757" alt="image" src="https://github.com/user-attachments/assets/d6a07ed3-51e1-4eb4-8ee4-550db502b62f" />
 
-![Interactive Slicers](screenshot-placeholder-6.png)
+<img width="1396" height="762" alt="image" src="https://github.com/user-attachments/assets/e20afae5-915f-4618-973f-6ed963592336" />
 
-### 🔄 Dynamic Formula Integration
 
-**Advanced Excel Functions Utilized:**
-- `SUMIFS()` for conditional aggregation
-- `AVERAGEIFS()` for dynamic averaging
-- `COUNTIFS()` for inventory tracking
-- `INDEX()` and `MATCH()` for data lookup
-- Array formulas for complex calculations
-- Conditional formatting for visual indicators
 
-## 📱 User Experience Design
-
-### Navigation Flow
-1. **Data Entry Point**: Raw data validation and import
-2. **Processing Layer**: Automated pivot table refresh
-3. **Analytics Engine**: Real-time calculation updates
-4. **Visualization Layer**: Interactive dashboard presentation
-5. **Export Functionality**: Report generation capabilities
-
-### 🎨 Visual Design Elements
-
-- **Consistent Color Scheme**: Professional blue and green palette
-- **Clear Typography**: Readable fonts with appropriate sizing
-- **Logical Layout**: Intuitive information hierarchy
-- **Responsive Design**: Adaptable to different screen resolutions
-- **Interactive Elements**: Hover effects and selection feedback
-
-![Dashboard Design](screenshot-placeholder-7.png)
 
 ## 📋 Business Intelligence Insights
 
@@ -193,22 +142,6 @@ The project leverages Excel's advanced pivot table functionality with multiple i
 - **Modular Structure**: Easy addition of new analysis dimensions
 - **Export Integration**: One-click report generation
 
-![Advanced Features](screenshot-placeholder-8.png)
-
-## 📊 Technical Specifications
-
-### System Requirements
-- **Microsoft Excel 2016** or later (Office 365 recommended)
-- **Windows 10/11** or macOS 10.15+
-- **4GB RAM** minimum (8GB recommended for large datasets)
-- **50MB** available disk space
-
-### File Specifications
-- **File Format**: `.xlsx` (Excel Open XML)
-- **File Size**: ~2.5MB optimized
-- **Compatibility**: Cross-platform Excel support
-- **Security**: No external links or macros (enterprise-safe)
-
 ## 🛠️ Setup and Usage
 
 ### Quick Start Guide
@@ -225,8 +158,6 @@ The project leverages Excel's advanced pivot table functionality with multiple i
 - **Data Filters**: Customize slicer options for specific analysis
 - **Chart Types**: Alternative visualization options available
 
-![Usage Guide](screenshot-placeholder-9.png)
-
 ## 📈 Future Enhancements
 
 ### Planned Features
@@ -235,12 +166,6 @@ The project leverages Excel's advanced pivot table functionality with multiple i
 - **Mobile Optimization**: Responsive design for tablets
 - **Advanced Analytics**: Predictive modeling integration
 - **Multi-language Support**: Localization for regional markets
-
-### Technical Roadmap
-- **Version 2.0**: PowerQuery integration for data transformation
-- **Version 2.5**: Advanced statistical analysis features  
-- **Version 3.0**: Machine learning predictive models
-- **Version 3.5**: Real-time streaming data capability
 
 ## 🏆 Project Highlights
 
@@ -259,15 +184,12 @@ The project leverages Excel's advanced pivot table functionality with multiple i
 - **Professional dashboard design** without VBA or external tools
 - **Optimized performance** handling 8,500+ records smoothly
 
-![Project Highlights](screenshot-placeholder-10.png)
-
 ## 📞 Contact & Support
 
-For questions, suggestions, or collaboration opportunities regarding this Daraz Sales Analysis Dashboard:
+For questions, suggestions, or collaboration opportunities,
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
-- **Portfolio**: [your-portfolio-website.com]
+- **LinkedIn**: https://pk.linkedin.com/in/ibad-ur-rehman-amir
+- **Email**: connect.ibadurrehman@gmail.com
 
 ## 📄 License
 
@@ -280,4 +202,3 @@ If you found this sales analysis dashboard helpful, please give it a star! Your 
 
 **Made with ❤️ for the Pakistani e-commerce community**
 
-![Footer Image](screenshot-placeholder-11.png)
